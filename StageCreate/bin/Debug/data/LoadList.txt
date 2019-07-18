@@ -1,2 +1,0 @@
-../data/LoadList/Star.txt
-../data/LoadList/Fragment.txt

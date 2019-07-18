@@ -1,7 +1,0 @@
-Fragment 500 540 2
-Star 1500 540 24
-Meteo 960 108 4 288 0
-Meteo 960 324 4 288 0
-Meteo 960 756 4 288 0
-Meteo 960 972 4 288 0
-Result 1 255
