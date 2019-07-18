@@ -1,0 +1,36 @@
+﻿22 StarY2
+26 黄色2赤
+28 黄色2青
+30 黄色2赤青
+23 黄色3
+27 黄色3赤
+29 黄色3青
+31 黄色3赤青
+24 黄色4
+33 黄色4赤(完)
+32 黄色4青(完)
+25 黄色5(完)
+
+2 FragmentY
+60 FragmentR
+68 FragmentB
+
+112 Jupitor
+116 Neptune
+120 Saturn
+
+12 BlackHole
+
+14 AlianH
+16 横移動
+18 L回転
+20 R回転
+76 DL方向
+78 UL方向
+128 DR方向
+130 UR方向
+
+34 BreakStarF
+37 BreakStarT
+
+4 Meteo

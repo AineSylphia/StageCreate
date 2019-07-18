@@ -1,0 +1,6 @@
+Fragment 500 700 2
+Star 1500 200 24
+Alian 1300 540 14
+Alian 1700 540 14
+Alian 800 400 16
+Result 1 32
